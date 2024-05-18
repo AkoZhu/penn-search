@@ -4,7 +4,7 @@ This code base makes use of the [NS3](https://www.nsnam.org/) simulator.
 
 **NOTICE:** Due to the academic policy, the source code is excluded.
 
-**Detail Architecture:**: https://akozhu.github.io/portfolio/penn-search/
+**Detail Architecture:** https://akozhu.github.io/portfolio/penn-search/
 
 ## Repo structure
 
